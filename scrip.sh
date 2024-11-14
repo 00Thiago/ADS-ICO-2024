@@ -3,3 +3,5 @@
 s -l
 pwd
 date
+tree
+
