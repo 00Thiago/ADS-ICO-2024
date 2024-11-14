@@ -2,3 +2,4 @@
 
 s -l
 pwd
+date
