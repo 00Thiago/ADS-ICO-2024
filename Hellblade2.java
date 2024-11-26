@@ -16,7 +16,7 @@ public class Hellblade2 extends Robot
 		// Initialization of the robot should be put here
 
 		// After trying out your robot, try uncommenting the import at the top, 
-		// and the next line:
+		// and the next line: 
 
 		// setColors(Color.red,Color.blue,Color.green); // body,gun,radar
 
